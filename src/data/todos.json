@@ -1,21 +1,20 @@
 [
-    {
-        "id":1,
-        "title": "Vova",
-        "isDone": false,
-        "priority": 1
-    },
-    {   
-        "id":2,
-        "title": "VovaLove",
-        "isDone": true,
-        "priority": 2
-    },
-    {
-        "id":3,
-        "title": "VovaVolvo",
-        "isDone": false,
-        "priority": 3
-    }
-
+  {
+    "id": 1,
+    "title": "Vova",
+    "isDone": false,
+    "priority": 1
+  },
+  {
+    "id": 2,
+    "title": "VovaLove",
+    "isDone": true,
+    "priority": 2
+  },
+  {
+    "id": 3,
+    "title": "VovaVolvo",
+    "isDone": false,
+    "priority": 3
+  }
 ]
